@@ -1,0 +1,8 @@
+logistic regression model- relationship btw age and life hist params
+look up standard age at maturity models
+find maturity ogives for as many carcharhinids as possible
+params for maturity ogives - age at 50% mature, rate
+
+trait db = max age,physical characteristics, envr preferences anything!
+
+put life history params in flat file, collect specise traits for 5ish traits, looks up logistic modesl

@@ -1,0 +1,6 @@
+model teh relationship between age and parameters for alpha hat equations (mortality, fecundity, maturity)
+step 1 - collect age structured data from cortes paper
+step 2 - figure out what variables shoujld be included in model to make age/parameter ogives
+step 3 - collect data on above variables eg temperature preference, phylogeny etc
+
+get 5 species parameter tables from cortes paper at least

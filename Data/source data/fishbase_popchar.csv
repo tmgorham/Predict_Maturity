@@ -1,0 +1,205 @@
+SpecCode,Species,Autoctr,Stockcode,PopCharRefNo,Sex,SourceRef,Wmax,TypeWeight,Lmax,Type,tmax,Locality,C_Code,Entered,DateEntered,Modified,DateModified,Expert,DateChecked,Comments,SameWL,SameLt,TS
+857,Carcharhinus acronotus,731,873,56138,female,31396,NA,NA,130,TL,4.5,Florida,840,3,28/02/2001 00:00,2,02/02/2006 00:00,NA,NA,NA,0,0,NA
+857,Carcharhinus acronotus,5560,873,56138,female,56138,NA,NA,154,TL,5,Northwestern Atlantic,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+857,Carcharhinus acronotus,16456,873,96987,female,96987,NA,NA,NA,NA,11.5,eastern Gulf of Mexico,840,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+857,Carcharhinus acronotus,5559,873,56138,male,31396,NA,NA,122,TL,2.5,Florida,840,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+857,Carcharhinus acronotus,5561,873,56138,male,56138,NA,NA,164,TL,6,Northwestern Atlantic,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+857,Carcharhinus acronotus,16455,873,96979,mixed,96979,NA,NA,NA,NA,15,off Pernambuco (07<b0>15'45'' S - 09<b0>28'18'' S),76,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+857,Carcharhinus acronotus,3510,873,41394,unsexed,41394,NA,NA,200,NA,NA,Western Atlantic,NA,2,02/03/2004 00:00,NA,02/03/2004 00:00,NA,NA,NA,0,0,NA
+858,Carcharhinus albimarginatus,5564,874,56138,female,56138,NA,NA,261,TL,NA,Northwestern Indian Ocean,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+858,Carcharhinus albimarginatus,5562,874,56138,female,NA,NA,NA,208,TL,NA,Southwestern Indian Ocean,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+858,Carcharhinus albimarginatus,5565,874,56138,male,56138,NA,NA,235,TL,NA,Northwestern Indian Ocean,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+858,Carcharhinus albimarginatus,5563,874,56138,male,56138,NA,NA,204,TL,NA,Southwestern Indian Ocean,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+858,Carcharhinus albimarginatus,16363,874,96339,unsexed,NA,NA,NA,300,TL,NA,Not specified.,9999,2291,04/08/2014 00:00,NA,04/08/2014 00:00,NA,NA,NA,0,0,NA
+859,Carcharhinus altimus,5566,875,56138,female,56138,NA,NA,282,TL,NA,Northwestern Atlantic,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+859,Carcharhinus altimus,8249,875,13277,female,13277,NA,NA,158,SL,NA,"Gulf of Aqaba, 1991",376,97,17/03/2008 00:00,NA,24/03/2008 00:00,NA,NA,Recorded from 350 m deep.,0,0,NA
+859,Carcharhinus altimus,9540,875,87400,female,87400,NA,NA,155,TL,NA,"off Muscat, 2010",512,2147,22/07/2011 00:00,393,22/07/2011 00:00,NA,NA,Recorded from 150 m depth.,0,0,NA
+859,Carcharhinus altimus,5567,875,56138,male,56138,NA,NA,267,TL,NA,Northwestern Atlantic,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+859,Carcharhinus altimus,9538,875,87400,male,87400,NA,NA,110,TL,NA,"Muscat, 2009",512,2147,22/07/2011 00:00,393,22/07/2011 00:00,NA,NA,Recorded from 20 m depth.,0,0,NA
+859,Carcharhinus altimus,9539,875,87400,male,87400,NA,NA,173,TL,NA,"off Muscat, 2010",512,2147,22/07/2011 00:00,393,22/07/2011 00:00,NA,NA,Recorded from 150 m depth.,0,0,NA
+859,Carcharhinus altimus,732,875,27093,unsexed,27094,NA,NA,235,FL,NA,Northern American waters,840,3,04/08/1998 00:00,NA,04/08/1998 00:00,NA,NA,NA,0,0,NA
+859,Carcharhinus altimus,16364,875,96339,unsexed,NA,NA,NA,300,TL,NA,Not specified.,9999,2291,05/08/2014 00:00,NA,05/08/2014 00:00,NA,NA,NA,0,0,NA
+860,Carcharhinus amblyrhynchoides,5568,876,56138,female,56138,NA,NA,162,TL,NA,Eastern Indian Ocean,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+860,Carcharhinus amblyrhynchoides,5571,876,56138,female,56138,NA,NA,167,TL,NA,Indo-West Pacific,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+860,Carcharhinus amblyrhynchoides,5570,876,244,male,244,NA,NA,140,TL,NA,Indo-West Pacific,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+860,Carcharhinus amblyrhynchoides,5569,876,56138,male,56138,NA,NA,161,TL,NA,Eastern Indian Ocean,NA,2,02/02/2006 00:00,NA,02/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,733,877,31395,female,NA,NA,NA,255,TL,18,Not given.,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+861,Carcharhinus amblyrhynchos,5578,877,56138,female,56138,NA,NA,178,TL,NA,Eastern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5580,877,56138,female,56138,NA,NA,172,TL,NA,Northern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5574,877,56138,female,56138,NA,NA,187,TL,12,not specified,840B,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5576,877,56138,female,56138,NA,NA,190,TL,NA,to be filled,840B,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5579,877,56138,male,56138,NA,NA,150,TL,NA,Eastern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5581,877,56138,male,56138,NA,NA,168,TL,NA,Northern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5575,877,56138,male,56138,NA,NA,174,TL,12,not specified,840B,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5577,877,56138,male,56138,NA,NA,185,TL,NA,to be filled,840B,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,5837,877,37816,unsexed,37816,NA,NA,NA,NA,25,to be filled,583,2,11/05/2006 00:00,NA,11/05/2006 00:00,NA,NA,NA,0,0,NA
+861,Carcharhinus amblyrhynchos,8031,877,58048,unsexed,NA,NA,NA,232,TL,NA,not specified,360,1790,13/02/2008 23:17,NA,13/02/2008 23:17,NA,NA,NA,0,0,NA
+862,Carcharhinus amboinensis,5586,878,56138,female,56138,NA,NA,243,TL,NA,Eastern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+862,Carcharhinus amboinensis,5582,878,56138,female,56138,NA,NA,223,TL,NA,Southwestern Indian Ocean (1),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+862,Carcharhinus amboinensis,5584,878,56138,female,56138,NA,NA,246,TL,NA,Southwestern Indian Ocean (2),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+862,Carcharhinus amboinensis,5587,878,56138,male,56138,NA,NA,231,TL,NA,Eastern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+862,Carcharhinus amboinensis,5583,878,56138,male,56138,NA,NA,196,TL,NA,Southwestern Indian Ocean (1),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+862,Carcharhinus amboinensis,5585,878,56138,male,56138,NA,NA,239,TL,NA,Southwestern Indian Ocean (2),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+863,Carcharhinus borneensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+864,Carcharhinus brachyurus,734,880,3209,female,NA,NA,NA,288,TL,25,South Africa,710,3,18/04/1992 00:00,NA,10/05/1993 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,737,880,6390,female,NA,NA,NA,NA,NA,25,southern waters,36,2,18/02/1998 00:00,NA,18/02/1998 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,5590,880,56138,female,56138,NA,NA,292,TL,25,Southwestern Indian Ocean (1),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,5592,880,56138,female,56138,NA,NA,303,TL,NA,Southwestern Indian Ocean (2),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,735,880,3209,male,NA,NA,NA,294,TL,30,South Africa,710,3,18/04/1992 00:00,NA,10/05/1993 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,738,880,6390,male,NA,NA,NA,NA,NA,30,southern waters,36,2,18/02/1998 00:00,NA,18/02/1998 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,5591,880,56138,male,56138,NA,NA,294,TL,30,Southwestern Indian Ocean (1),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,5593,880,56138,male,56138,NA,NA,293,TL,NA,Southwestern Indian Ocean (2),NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,736,880,3678,unsexed,NA,NA,NA,300,TL,NA,South Africa,710,3,31/05/1992 00:00,NA,10/05/1993 00:00,NA,NA,NA,0,0,NA
+864,Carcharhinus brachyurus,739,880,6390,unsexed,NA,NA,NA,295,TL,NA,southern waters,36,2,18/02/1998 00:00,NA,18/02/1998 00:00,NA,NA,NA,0,0,NA
+865,Carcharhinus brevipinna,5597,881,56138,female,56138,NA,NA,276,TL,NA,Eastern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+865,Carcharhinus brevipinna,5595,881,56138,female,56138,NA,NA,266,TL,NA,Southwestern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+865,Carcharhinus brevipinna,5598,881,56138,male,56138,NA,NA,260,TL,NA,Eastern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+865,Carcharhinus brevipinna,5596,881,56138,male,56138,NA,NA,233,TL,NA,Southwestern Indian Ocean,NA,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+865,Carcharhinus brevipinna,5599,881,26999,unsexed,26999,NA,NA,300,TL,NA,to be filled,624,2,03/02/2006 00:00,NA,03/02/2006 00:00,NA,NA,NA,0,0,NA
+865,Carcharhinus brevipinna,8032,881,58048,unsexed,NA,NA,NA,283,TL,NA,not specified,360,1790,13/02/2008 23:30,NA,13/02/2008 23:30,NA,NA,NA,0,0,NA
+866,Carcharhinus cautus,5604,882,56138,female,56138,NA,NA,119,TL,NA,Northeastern Indian Ocean,NA,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+866,Carcharhinus cautus,5605,882,56138,male,56138,NA,NA,101,TL,NA,Northeastern Indian Ocean,NA,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+866,Carcharhinus cautus,5603,882,244,unsexed,NA,NA,NA,150,TL,NA,to be filled,NA,2,06/02/2006 00:00,3,21/03/2011 16:25,NA,NA,NA,0,0,NA
+66939,Carcharhinus cerdale,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67451,Carcharhinus coatesi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+867,Carcharhinus dussumieri,5606,883,56138,female,56138,NA,NA,88,TL,NA,Eastern Indian Ocean,NA,2,06/02/2006 00:00,NA,18/08/2014 00:00,NA,NA,NA,0,0,NA
+867,Carcharhinus dussumieri,5607,883,56138,male,56138,NA,NA,87,TL,NA,Eastern Indian Ocean,NA,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+867,Carcharhinus dussumieri,16191,883,93009,male,NA,1831,total weight,75,TL,NA,Gulf of Thailand near Pak Phanang,764,2291,15/04/2014 00:00,14,18/08/2014 00:00,NA,NA,"Questionable record, outside distributional range of this species (Ref. 89954).",0,0,NA
+867,Carcharhinus dussumieri,2959,883,47533,unsexed,NA,NA,NA,100,TL,NA,Persian Gulf and Oman Sea,364,1124,07/07/2003 00:00,NA,08/07/2003 00:00,NA,NA,At birth about 31-40 cm (Ref. 47533). Also Ref. 47613.,0,0,NA
+868,Carcharhinus falciformis,740,884,6403,female,6403,NA,NA,308,TL,23,"Campeche Bank, Yucatan",484,3,28/01/1994 00:00,NA,28/01/1994 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,742,884,31395,female,NA,NA,NA,315,TL,25,Not given.,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+868,Carcharhinus falciformis,5613,884,56138,female,56138,NA,NA,305,TL,14,Northwestern Gulf of Mexico,NA,2,07/02/2006 00:00,NA,07/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,5615,884,56138,female,56138,NA,NA,330,TL,NA,Northwestern Atlantic,NA,2,08/02/2006 00:00,NA,08/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,5619,884,56138,female,56138,NA,NA,250,TL,NA,Southwestern Pacific,NA,2,08/02/2006 00:00,NA,08/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,5618,884,56138,female,56138,NA,NA,283,TL,NA,Western Indian Ocean,NA,2,08/02/2006 00:00,NA,08/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,741,884,6403,male,6403,NA,NA,314,TL,21,"Campeche Bank, Yucatan",484,3,28/01/1994 00:00,NA,28/01/1994 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,5614,884,56138,male,56138,NA,NA,272,TL,13,Northwestern Gulf of Mexico,NA,2,07/02/2006 00:00,NA,07/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,5620,884,56138,male,56138,NA,NA,225,TL,NA,Southwestern Pacific,NA,2,08/02/2006 00:00,NA,08/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,5616,884,56138,male,56138,NA,NA,244,TL,NA,Western Indian Ocean,NA,2,08/02/2006 00:00,NA,08/02/2006 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,16457,884,96726,mixed,96726,NA,NA,NA,NA,16,"Punta Lobos (24<b0>35' N, 112<b0>04' W) and Punta Belcher (23<b0>35' N, 110<b0>14' W)",484,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,16458,884,96992,mixed,NA,NA,NA,NA,NA,14,Western Central Pacific,NA,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+868,Carcharhinus falciformis,16582,884,89972,unsexed,NA,NA,NA,350,TL,NA,Not specified.,258,2291,09/09/2014 00:00,NA,09/09/2014 00:00,NA,NA,NA,0,0,NA
+869,Carcharhinus fitzroyensis,5608,885,56138,female,56138,NA,NA,135,TL,NA,Northeastern Indian Ocean,NA,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+869,Carcharhinus fitzroyensis,5609,885,56138,male,56138,NA,NA,126,TL,NA,Northeastern Indian Ocean,NA,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+870,Carcharhinus galapagensis,743,886,31395,female,NA,NA,NA,370,TL,24,Not given.,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+870,Carcharhinus galapagensis,5610,886,56138,female,56138,NA,NA,300,TL,15,to be filled,840B,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+870,Carcharhinus galapagensis,5611,886,56138,male,56138,NA,NA,267,TL,15,to be filled,840B,2,06/02/2006 00:00,NA,06/02/2006 00:00,NA,NA,NA,0,0,NA
+871,Carcharhinus hemiodon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67430,Carcharhinus humani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+872,Carcharhinus isodon,4323,888,49961,female,49961,NA,NA,150,TL,8,"St. Andrew - Apalachicola Bay, Gulf of Mexico, 1995-99",840,3,26/09/2004 00:00,NA,26/09/2004 00:00,NA,NA,NA,0,0,NA
+872,Carcharhinus isodon,4324,888,49961,male,49961,NA,NA,136,TL,8.1,"St. Andrew - Apalachicola Bay, Gulf of Mexico, 1995-99",840,3,26/09/2004 00:00,NA,26/09/2004 00:00,NA,NA,NA,0,0,NA
+9378,Carcharhinus leiodon,9544,9700,87400,male,87400,NA,NA,120,TL,NA,"Salalah fish market, 2003",512,2147,22/07/2011 00:00,393,22/07/2011 00:00,NA,NA,NA,0,0,NA
+9378,Carcharhinus leiodon,9543,9700,87400,male,87400,NA,NA,58,TL,NA,"Salalah fish market, 2010",512,2147,22/07/2011 00:00,393,22/07/2011 00:00,NA,NA,NA,0,0,NA
+873,Carcharhinus leucas,744,889,244,female,NA,NA,NA,NA,NA,16,Lake Nicaragua,558,2,04/04/1994 00:00,NA,04/04/1994 00:00,NA,NA,NA,0,0,NA
+873,Carcharhinus leucas,749,889,31395,female,NA,NA,NA,300,TL,27,Not given.,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+873,Carcharhinus leucas,747,889,9165,female,9165,NA,NA,268,TL,24.2,"northern Gulf of Mexico, 1979-85",840,3,20/10/2001 00:00,NA,20/10/2001 00:00,NA,NA,NA,0,-1,NA
+873,Carcharhinus leucas,751,889,42004,female,42004,NA,NA,221,OT,32,east coast,710,3,23/05/2002 00:00,NA,23/05/2002 00:00,NA,NA,Length measurement used: pre-cadual; estimated maximum age in captivity >29 yrs (for 2 specimens kept  in an aquarium for 20 yrs).,0,-1,NA
+873,Carcharhinus leucas,16459,889,97042,female,97042,NA,NA,NA,NA,27,between Florida and North Carolina,840,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+873,Carcharhinus leucas,745,889,244,male,NA,NA,NA,NA,NA,12,Lake Nicaragua,558,2,04/04/1994 00:00,NA,04/04/1994 00:00,NA,NA,NA,0,0,NA
+873,Carcharhinus leucas,748,889,9165,male,9165,NA,NA,245,TL,21.3,"northern Gulf of Mexico, 1979-85",840,3,20/10/2001 00:00,NA,20/10/2001 00:00,NA,NA,NA,0,-1,NA
+873,Carcharhinus leucas,746,889,3678,unsexed,NA,NA,NA,320,TL,NA,South Africa,710,3,31/05/1992 00:00,2,23/05/2002 00:00,NA,NA,NA,0,0,NA
+873,Carcharhinus leucas,750,889,34089,unsexed,NA,NA,NA,NA,NA,28,Western North Atlantic.,NA,1,19/05/2000 00:00,NA,19/05/2000 00:00,NA,NA,NA,0,0,NA
+873,Carcharhinus leucas,6316,889,44894,unsexed,NA,NA,NA,300,SL,NA,locality not specified,36,1472,20/07/2006 00:00,NA,20/07/2006 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,753,890,6088,female,NA,NA,NA,NA,NA,12,"Arafura Sea and Timor Sea, 1980-84",36,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,755,890,6090,female,31395,NA,NA,191,TL,18,Gulf of Mexico,840,3,12/09/1993 00:00,1,04/10/1999 00:00,1,04/10/1999,NA,0,-1,NA
+874,Carcharhinus limbatus,756,890,6090,female,NA,NA,NA,183,TL,10,"Tampa Bay, Florida, 1985-87",840,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,754,890,6088,male,NA,NA,NA,NA,NA,8,"Arafura Sea and Timor Sea, 1980-84",36,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,757,890,6090,male,NA,NA,NA,175,NA,NA,Gulf of Mexico,840,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,758,890,6090,male,NA,NA,NA,165,TL,9,"Tampa Bay, Florida, 1985-87",840,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,6868,890,30214,mixed,NA,NA,NA,NA,NA,20,Atlantic,840,1,09/02/2007 00:00,NA,09/02/2007 00:00,NA,NA,Based on life table analysis.,0,0,NA
+874,Carcharhinus limbatus,752,890,3678,unsexed,NA,NA,NA,250,TL,12,South Africa,710,3,31/05/1992 00:00,2,05/04/1994 00:00,NA,NA,Maximum age from Ref. 244.,0,0,NA
+874,Carcharhinus limbatus,759,890,27160,unsexed,27169,NA,NA,275,TL,NA,Bijagos,624,3,03/09/1998 00:00,NA,03/09/1998 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,760,890,27160,unsexed,27160,NA,NA,165,TL,NA,Rio Grande de Buba,624,3,03/09/1998 00:00,NA,03/09/1998 00:00,NA,NA,NA,0,0,NA
+874,Carcharhinus limbatus,8033,890,58048,unsexed,NA,NA,NA,255,TL,NA,not specified,360,1790,13/02/2008 23:48,NA,13/02/2008 23:48,NA,NA,NA,0,0,NA
+875,Carcharhinus longimanus,761,891,31395,female,NA,NA,NA,270,TL,22,off southern east Africa (?),NA,1,04/10/1999 00:00,3,01/10/2003 00:00,NA,NA,Ref. 6184 (cited in Ref. 47992) reports an Lmax 270 cm for this species off east coast of southern Africa.,0,-1,NA
+875,Carcharhinus longimanus,3403,891,47992,unsexed,47992,NA,NA,250,TL,NA,"Northeastern coast, 1992-97",76,3,01/10/2003 00:00,NA,01/10/2003 00:00,NA,NA,NA,0,0,NA
+875,Carcharhinus longimanus,3406,891,47992,unsexed,NA,NA,NA,250,TL,NA,Pacific Ocean,NA,3,01/10/2003 00:00,NA,01/10/2003 00:00,NA,NA,Lmax source: Saika and Yoshimura (unpubl.) cited in Ref. 47992.,0,0,NA
+875,Carcharhinus longimanus,6973,891,5951,unsexed,NA,NA,NA,350,TL,NA,Canadian Atlantic,124,1472,12/07/2007 00:00,NA,12/07/2007 00:00,NA,NA,NA,0,0,NA
+876,Carcharhinus macloti,3048,892,47613,unsexed,NA,NA,NA,100,TL,NA,Persian Gulf and Oman Sea from Bushehr to Chabhar,364,1124,08/07/2003 00:00,NA,08/07/2003 00:00,NA,NA,NA,0,0,NA
+63792,Carcharhinus macrops,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+877,Carcharhinus melanopterus,8034,893,58048,unsexed,NA,NA,NA,180,TL,NA,not specified,360,1790,14/02/2008 00:10,NA,14/02/2008 00:10,NA,NA,NA,0,0,NA
+877,Carcharhinus melanopterus,16583,893,89972,unsexed,NA,NA,NA,200,TL,NA,Not specified.,258,2291,09/09/2014 00:00,NA,09/09/2014 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,766,894,32086,female,32086,NA,NA,NA,NA,33,"Cape Cod to Florida E. coast, 1963-93",840,3,06/03/2000 00:00,NA,03/06/2000 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,768,894,41862,female,41862,NA,NA,282,FL,NA,south-western Western Australia,36,3,16/05/2002 00:00,NA,16/05/2002 00:00,NA,NA,Direct estimation of Tmax not possible because of few large specimens. Oldest fish aged was 32 yrs (274 cm FL).,0,0,NA
+878,Carcharhinus obscurus,16460,894,97041,female,97041,NA,NA,NA,NA,45,Western Australian,36,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,6974,894,5951,male,NA,NA,NA,329,TL,NA,Canadian Atlantic,124,1472,12/07/2007 00:00,NA,12/07/2007 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,6867,894,30214,mixed,NA,NA,NA,NA,NA,45,Atlantic,840,1,09/02/2007 00:00,1,09/02/2007 00:00,NA,NA,Based on life table analysis.,0,0,NA
+878,Carcharhinus obscurus,762,894,3678,unsexed,NA,NA,NA,350,TL,NA,South Africa,710,3,31/05/1992 00:00,NA,20/05/1993 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,763,894,6390,unsexed,6390,323500,NA,345,NG,35,southern waters,36,2,18/02/1998 00:00,NA,22/06/1998 00:00,NA,NA,Tmax value is the lower limit.,0,0,NA
+878,Carcharhinus obscurus,765,894,27093,unsexed,27093,NA,NA,303,FL,NA,Not specified.,NA,3,04/08/1998 00:00,NA,04/08/1998 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,764,894,6871,unsexed,31395,NA,NA,365,TL,40,Not stated.,36,2,22/09/1998 00:00,1,16/05/2002 00:00,NA,NA,Lmax of 365 TL will probably yield a Tmax of 42 yrs (Ref. 41862).,0,-1,NA
+878,Carcharhinus obscurus,767,894,34089,unsexed,NA,NA,NA,NA,NA,30,Western North Atlantic.,NA,1,19/05/2000 00:00,NA,19/05/2000 00:00,NA,NA,NA,0,0,NA
+878,Carcharhinus obscurus,8035,894,58048,unsexed,NA,NA,NA,400,SL,NA,not specified,360,1790,14/02/2008 00:13,NA,14/02/2008 00:13,NA,NA,NA,0,0,NA
+879,Carcharhinus perezii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+880,Carcharhinus plumbeus,769,896,3599,female,NA,NA,NA,154,FL,15,"Gt. Machipongo In., VA & Mid-Atl. Bight",840,3,21/05/1992 00:00,NA,10/05/1993 00:00,NA,NA,NA,0,-1,NA
+880,Carcharhinus plumbeus,771,896,4857,female,NA,NA,NA,157,FL,32,Western North Atlantic,840,3,05/11/1992 00:00,NA,10/05/1993 00:00,NA,NA,tmax for sandbar sharks probably >50 yrs,0,-1,NA
+880,Carcharhinus plumbeus,772,896,31395,female,31395,NA,NA,239,TL,30,Not given.,NA,1,04/10/1999 00:00,2,10/05/2006 00:00,NA,NA,NA,0,-1,NA
+880,Carcharhinus plumbeus,16461,896,97041,female,97041,NA,NA,NA,NA,33,Western Australian,36,3,26/08/2014 00:00,NA,26/08/2014 00:00,NA,NA,NA,0,0,NA
+880,Carcharhinus plumbeus,770,896,3599,male,NA,NA,NA,204,FL,21,"Gt. Machipongo In., VA & Mid-Atl. Bight",840,3,21/05/1992 00:00,NA,10/05/1993 00:00,NA,NA,NA,0,-1,NA
+880,Carcharhinus plumbeus,6866,896,30214,mixed,NA,NA,NA,NA,NA,35,Atlantic Ocean,840,1,09/02/2007 00:00,NA,09/02/2007 00:00,NA,NA,NA,0,0,NA
+880,Carcharhinus plumbeus,8036,896,58048,unsexed,NA,NA,NA,280,TL,NA,not specified,360,1790,14/02/2008 00:27,NA,14/02/2008 00:27,NA,NA,NA,0,0,NA
+880,Carcharhinus plumbeus,8250,896,13277,unsexed,13277,NA,NA,180.5,SL,NA,"Gulf of Aqaba, 1989",376,97,17/03/2008 00:00,NA,24/03/2008 00:00,NA,NA,Recorded from 350 m deep.,0,0,NA
+880,Carcharhinus plumbeus,9840,896,92315,unsexed,92315,NA,NA,146,FL,34,Western North Atlantic,840,3,30/11/2012 00:00,NA,30/11/2012 00:00,NA,NA,34 yrs was the mean age from tag-recapture data (time at liberty: 27.8 yrs; age at tagging: 5-8 yrs). Validated age estimates using bomb radiocarbon dating to aprrox. 26 yrs .,0,0,NA
+881,Carcharhinus porosus,773,897,27971,female,27971,NA,NA,128,TL,12,"Maranh<e3>o coast, 1984-87",76,3,29/01/1999 00:00,NA,29/01/1999 00:00,NA,NA,NA,0,0,NA
+881,Carcharhinus porosus,13821,897,86285,unsexed,86285,7600,NA,110,TL,NA,Not stated,9999,14,02/05/2013 00:00,NA,02/05/2013 00:00,NA,NA,"Castro, in press.",0,0,NA
+882,Carcharhinus sealei,774,898,3678,unsexed,NA,NA,NA,100,TL,NA,South Africa,710,3,31/05/1992 00:00,NA,26/05/1993 00:00,NA,NA,NA,0,0,NA
+882,Carcharhinus sealei,8037,898,58048,unsexed,NA,NA,NA,95,TL,NA,not specified,360,1790,14/02/2008 00:35,NA,14/02/2008 00:35,NA,NA,NA,0,0,NA
+883,Carcharhinus signatus,4852,899,52677,female,52677,NA,NA,252,TL,17,"seamounts (38-370 m depths), 1995-97",76,3,10/12/2004 00:00,NA,10/12/2004 00:00,NA,NA,Sex of the 17 yr-old (oldest) specimen was unknown.,0,0,NA
+883,Carcharhinus signatus,775,899,27093,unsexed,27094,NA,NA,235,FL,NA,Northern American waters,840,3,04/08/1998 00:00,NA,04/08/1998 00:00,NA,NA,NA,0,0,NA
+884,Carcharhinus sorrah,776,900,6088,female,NA,NA,NA,NA,NA,7,"Arafura Sea and Timor Sea, 1980-84",36,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+884,Carcharhinus sorrah,777,900,6088,male,NA,NA,NA,NA,NA,5,"Arafura Sea and Timor Sea, 1980-84",36,3,12/09/1993 00:00,NA,12/09/1993 00:00,NA,NA,NA,0,0,NA
+884,Carcharhinus sorrah,778,900,6390,unsexed,NA,28000,NA,160,TL,8,northern coasts,36,2,19/03/1998 00:00,2,21/03/1998 00:00,NA,NA,NA,0,0,NA
+884,Carcharhinus sorrah,2965,900,47533,unsexed,NA,NA,NA,160,TL,NA,Persian Gulf and Oman Sea,364,1124,07/07/2003 00:00,1124,08/07/2003 00:00,NA,NA,Reported from Chabahar waters (Ref. 47613).,0,0,NA
+15721,Carcharhinus tilstoni,2494,14846,6390,unsexed,NA,52000,NA,200,TL,12,northern coasts,36,2,19/03/1998 00:00,2,09/06/1998 00:00,NA,NA,"Young increases in length by about 20 cm in the first year, or by 17 cm TL (Ref. 6088), declining to 8-10 cm/year by 5 yrs of  age",0,0,NA
+67456,Carcharhinus tjutjot,16581,58728,89954,female,NA,NA,NA,91.8,TL,NA,southern waters,360,14,08/09/2014 00:00,NA,08/09/2014 00:00,NA,NA,34.1-91.8 cm TL,0,0,NA
+67456,Carcharhinus tjutjot,16580,58728,89954,male,NA,NA,NA,93.7,TL,NA,southern waters,360,14,08/09/2014 00:00,NA,08/09/2014 00:00,NA,NA,40.4-93.7 cm TL,0,0,NA
+886,Galeocerdo cuvier,781,902,31395,female,NA,NA,NA,430,TL,28,Not given.,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+886,Galeocerdo cuvier,779,902,4827,unsexed,NA,NA,NA,450,NA,NA,Atlantic,840,3,20/08/1993 00:00,NA,20/08/1993 00:00,NA,NA,NA,0,0,NA
+886,Galeocerdo cuvier,780,902,27093,unsexed,27094,NA,NA,469,FL,NA,Northern  American waters,840,3,04/08/1998 00:00,NA,04/08/1998 00:00,NA,NA,NA,0,0,NA
+886,Galeocerdo cuvier,3047,902,47613,unsexed,NA,NA,NA,750,TL,NA,Persian Gulf and Oman Sea,364,1124,08/07/2003 00:00,NA,08/07/2003 00:00,NA,NA,NA,0,0,NA
+886,Galeocerdo cuvier,8038,902,58048,unsexed,NA,NA,NA,740,TL,NA,not specified,360,1790,14/02/2008 00:47,NA,14/02/2008 00:47,NA,NA,NA,0,0,NA
+886,Galeocerdo cuvier,16584,902,89972,unsexed,NA,NA,NA,550,TL,NA,Not specified.,258,2291,09/09/2014 00:00,NA,09/09/2014 00:00,NA,NA,NA,0,0,NA
+65549,Glyphis fowlerae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+887,Glyphis gangeticus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64133,Glyphis garricki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+888,Glyphis glyphis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57443,Glyphis siamensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+891,Isogomphodon oxyrhynchus,787,907,34266,female,34266,NA,NA,160,TL,12,"Turia<e7><fa> Bay to Tubar<e3>o Bay, 1984-87; 1990-91/1998",76,3,15/06/2000 00:00,NA,15/06/2000 00:00,NA,NA,NA,0,0,NA
+891,Isogomphodon oxyrhynchus,788,907,34266,male,34266,NA,NA,144,TL,7,"Turia<e7><fa> Bay to Tubar<e3>o Bay, 1984-87; 1990-91/1998",76,3,15/06/2000 00:00,NA,15/06/2000 00:00,NA,NA,NA,0,0,NA
+892,Lamiopsis temminckii,8039,908,58048,unsexed,NA,NA,NA,168,TL,NA,not specified,360,1790,15/02/2008 01:34,NA,15/02/2008 01:34,NA,NA,NA,0,0,NA
+66612,Lamiopsis tephrodes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+894,Loxodon macrorhinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+895,Nasolamia velox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+896,Negaprion acutidens,8040,912,58048,unsexed,NA,NA,NA,310,TL,NA,not specified,360,1790,15/02/2008 01:43,NA,15/02/2008 01:43,NA,NA,NA,0,0,NA
+896,Negaprion acutidens,16585,912,89972,unsexed,NA,NA,NA,380,TL,NA,Not specified.,258,2291,10/09/2014 00:00,NA,10/09/2014 00:00,NA,NA,NA,0,0,NA
+897,Negaprion brevirostris,793,913,31395,female,NA,NA,NA,320,TL,25,Not given.,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+897,Negaprion brevirostris,16366,913,96339,unsexed,NA,NA,NA,340,TL,NA,Not specified.,9999,2291,06/08/2014 00:00,NA,06/08/2014 00:00,NA,NA,NA,0,0,NA
+898,Prionace glauca,5364,914,55027,female,NA,NA,NA,NA,NA,19.7,EEZ,554,3,29/07/2005 00:00,NA,29/07/2005 00:00,NA,NA,Age estimated from vertebral rings.,0,0,NA
+898,Prionace glauca,5363,914,55027,male,NA,NA,NA,NA,NA,22.8,EEZ,554,3,29/07/2005 00:00,NA,29/07/2005 00:00,NA,NA,Age estimated from vertebral rings.,0,0,NA
+898,Prionace glauca,794,914,776,unsexed,31395,NA,NA,383,TL,20,Northeast Atlantic,826,3,13/09/1993 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+898,Prionace glauca,795,914,6099,unsexed,NA,NA,NA,200,TL,NA,Japan,392,3,13/09/1993 00:00,NA,13/09/1993 00:00,NA,NA,NA,0,0,NA
+898,Prionace glauca,796,914,6099,unsexed,NA,NA,NA,280,TL,NA,off California,840,3,13/09/1993 00:00,NA,13/09/1993 00:00,NA,NA,NA,0,0,NA
+898,Prionace glauca,797,914,27093,unsexed,27094,NA,NA,320,FL,NA,Northern American waters,840,3,05/08/1998 00:00,NA,05/08/1998 00:00,NA,NA,NA,0,0,NA
+898,Prionace glauca,5350,914,54997,unsexed,54997,NA,NA,390,TL,NA,"southern region, 1997-2002",NA,3,29/07/2005 00:00,3,29/07/2005 00:00,NA,NA,NA,0,0,NA
+898,Prionace glauca,6976,914,5951,unsexed,NA,NA,NA,383,TL,NA,Canadian Atlantic,124,1472,12/07/2007 00:00,NA,12/07/2007 00:00,NA,NA,NA,0,0,NA
+898,Prionace glauca,8041,914,58048,unsexed,NA,NA,NA,383,TL,NA,not specified,360,1790,15/02/2008 01:48,NA,15/02/2008 01:48,NA,NA,NA,0,0,NA
+899,Rhizoprionodon acutus,798,915,3678,unsexed,NA,NA,NA,100,TL,NA,South Africa,710,3,31/05/1992 00:00,NA,29/05/1993 00:00,NA,NA,NA,0,0,NA
+899,Rhizoprionodon acutus,799,915,27160,unsexed,27160,NA,NA,97,TL,NA,Rio Grande de Buba,624,3,03/09/1998 00:00,NA,03/09/1998 00:00,NA,NA,NA,0,0,NA
+899,Rhizoprionodon acutus,3046,915,47613,unsexed,NA,NA,NA,102,TL,NA,Persian Gulf and Oman Sea,364,1124,08/07/2003 00:00,NA,08/07/2003 00:00,NA,NA,NA,0,0,NA
+899,Rhizoprionodon acutus,8042,915,58048,unsexed,NA,NA,NA,110,TL,NA,not specified,360,1790,15/02/2008 01:54,NA,15/02/2008 01:54,NA,NA,NA,0,0,NA
+900,Rhizoprionodon lalandii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+901,Rhizoprionodon longurio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902,Rhizoprionodon oligolinx,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+903,Rhizoprionodon porosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+904,Rhizoprionodon taylori,800,920,9161,female,9161,NA,NA,78.4,TL,7,"Cleveland Bay, Queensland",36,3,03/05/1995 00:00,NA,03/05/1995 00:00,NA,NA,NA,0,0,NA
+904,Rhizoprionodon taylori,801,920,9161,male,9161,NA,NA,69.1,TL,6,"Cleveland Bay, Queensland",36,3,03/05/1995 00:00,NA,03/05/1995 00:00,NA,NA,NA,0,0,NA
+904,Rhizoprionodon taylori,8043,920,58048,unsexed,NA,NA,NA,67,TL,NA,not specified,360,1790,15/02/2008 02:00,NA,15/02/2008 02:00,NA,NA,NA,0,0,NA
+905,Rhizoprionodon terraenovae,802,921,9161,unsexed,9169,NA,NA,NA,NA,8,USA,840,3,03/05/1995 00:00,NA,03/05/1995 00:00,NA,NA,NA,0,0,NA
+905,Rhizoprionodon terraenovae,803,921,47641,unsexed,47641,NA,NA,81.3,OT,10,"Chesapeake Bay, Virginia to Port Canaveral, Florida, 1997-1999",840,3,26/07/2001 00:00,3,16/05/2013 00:41,NA,NA,Age estimated from vertebral sections. Tmax validated by MIA and tag-recapture (Ref. 6140; 39247; 30214). Lmax refers to precaudal length.,0,0,NA
+906,Scoliodon laticaudus,8044,922,58048,unsexed,NA,NA,NA,74,TL,NA,not specified,360,1790,15/02/2008 02:04,NA,15/02/2008 02:04,NA,NA,NA,0,0,NA
+906,Scoliodon laticaudus,15685,922,94495,unsexed,NA,NA,NA,75,TL,NA,Yangon Market,104,2383,09/10/2013 12:18,393,12/09/2014 00:00,NA,NA,The study was carried out in December 2002.,0,0,NA
+67046,Scoliodon macrorhynchos,15522,58060,84283,female,NA,NA,NA,70.7,TL,NA,Not specified,344,14,18/07/2013 00:00,NA,18/07/2013 00:00,NA,NA,NA,0,0,NA
+67046,Scoliodon macrorhynchos,15523,58060,84283,male,NA,NA,NA,63.6,TL,NA,Not specified,344,14,18/07/2013 00:00,NA,18/07/2013 00:00,NA,NA,NA,0,0,NA
+907,Triaenodon obesus,804,923,31395,female,NA,NA,NA,168,TL,16,Not given,NA,1,04/10/1999 00:00,NA,04/10/1999 00:00,NA,NA,NA,0,-1,NA
+907,Triaenodon obesus,8045,923,58048,unsexed,NA,NA,NA,200,FL,NA,not specified,360,1790,15/02/2008 02:09,NA,15/02/2008 02:09,NA,NA,NA,0,0,NA
+907,Triaenodon obesus,16586,923,89972,unsexed,NA,NA,NA,210,TL,NA,Not specified.,258,2291,10/09/2014 00:00,NA,10/09/2014 00:00,NA,NA,NA,0,0,NA
